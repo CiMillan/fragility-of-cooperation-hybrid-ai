@@ -4,8 +4,8 @@ PhD research project, NOVA Information Management School (NOVA IMS), Universidad
 
 ## Supervisors
 
-- **Flávio L. Pinheiro**, Data Science, Computational Social Science, Complex Systems. [Ciência Vitae](https://www.cienciavitae.pt/portal/FF13-AC10-064A)
-- **Ian J. Scott**, Management, Information Systems, Blockchain, Energy Economics. [Ciência Vitae](https://www.cienciavitae.pt/portal/en/A817-FEBE-03B1)
+- **Flávio L. Pinheiro**, Data Science, Computational Social Science, Complex Systems. [Ciência Vitae](https://www.cienciavitae.pt/en/FF13-AC10-064A)
+- **Ian J. Scott**, Management, Information Systems, Blockchain, Energy Economics. [Ciência Vitae](https://www.cienciavitae.pt/en/A817-FEBE-03B1)
 
 ## Abstract
 
