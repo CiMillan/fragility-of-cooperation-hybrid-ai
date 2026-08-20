@@ -1,6 +1,6 @@
 # The Fragility of Cooperation Under Hybrid Human–AI Societies
 
-PhD research project, NOVA Information Management School (NOVA IMS), Universidade NOVA de Lisboa. Scholarship call `IMS_Bolsa_MagIC_PhD_2026_01`.
+PhD research project, NOVA Information Management School (NOVA IMS), Universidade NOVA de Lisboa.
 
 ## Supervisors
 
